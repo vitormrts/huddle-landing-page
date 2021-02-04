@@ -1,6 +1,6 @@
 <h1 align="center">Huddle</h1>
 <p align="center">
-     A responsive page build with HTML and CSS tools. 
+     A responsive page built with HTML and CSS tools. 
 </p> 
 
 <p align="center">
