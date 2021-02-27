@@ -1,0 +1,25 @@
+{
+  "name": "huddle-landing-page",
+  "version": "1.0.0",
+  "description": "A responsive page built with HTML and CSS tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass -w scss/ -o scss/",
+    "dev": "live-server --open=public --port=3000 --entry-file=index.html & npm run scss"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitormrts/huddle-landing-page.git"
+  },
+  "author": "@vitomrts",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitormrts/huddle-landing-page/issues"
+  },
+  "homepage": "https://github.com/vitormrts/huddle-landing-page#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "node-sass": "^5.0.0"
+  }
+}
